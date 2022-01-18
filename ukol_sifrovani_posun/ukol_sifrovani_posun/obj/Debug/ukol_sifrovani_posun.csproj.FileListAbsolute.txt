@@ -1,0 +1,10 @@
+C:\Users\filip\source\repos\ukol_sifrovani_posun\ukol_sifrovani_posun\bin\Debug\ukol_sifrovani_posun.exe.config
+C:\Users\filip\source\repos\ukol_sifrovani_posun\ukol_sifrovani_posun\bin\Debug\ukol_sifrovani_posun.exe
+C:\Users\filip\source\repos\ukol_sifrovani_posun\ukol_sifrovani_posun\bin\Debug\ukol_sifrovani_posun.pdb
+C:\Users\filip\source\repos\ukol_sifrovani_posun\ukol_sifrovani_posun\obj\Debug\ukol_sifrovani_posun.csproj.AssemblyReference.cache
+C:\Users\filip\source\repos\ukol_sifrovani_posun\ukol_sifrovani_posun\obj\Debug\ukol_sifrovani_posun.Form1.resources
+C:\Users\filip\source\repos\ukol_sifrovani_posun\ukol_sifrovani_posun\obj\Debug\ukol_sifrovani_posun.Properties.Resources.resources
+C:\Users\filip\source\repos\ukol_sifrovani_posun\ukol_sifrovani_posun\obj\Debug\ukol_sifrovani_posun.csproj.GenerateResource.cache
+C:\Users\filip\source\repos\ukol_sifrovani_posun\ukol_sifrovani_posun\obj\Debug\ukol_sifrovani_posun.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\ukol_sifrovani_posun\ukol_sifrovani_posun\obj\Debug\ukol_sifrovani_posun.exe
+C:\Users\filip\source\repos\ukol_sifrovani_posun\ukol_sifrovani_posun\obj\Debug\ukol_sifrovani_posun.pdb
